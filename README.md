@@ -4,12 +4,12 @@ Melhore sua Alexa fazendo-a responder como GPT Maker.
 
 Este repositório contém um tutorial sobre como criar uma skill simples da Alexa que usa a GPT Maker para gerar respostas do modelo ChatGPT.
 
-## Prerequisites
+## Pré-requisitos
 
 - Uma [Conta de desenvolvedor da Amazon](https://developer.amazon.com/)
 - Uma [Conta GPT Maker](https://gptmaker.ai)
 
-## Step-by-step tutorial
+## Tutorial passo a passo
 
 ### 1. <span name=item-1></span>
 
