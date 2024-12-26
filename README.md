@@ -43,7 +43,7 @@ Selecione "Start from Scratch" e clique em "Next" para continuar, na tela seguin
 
 ### 6.
 
-Na seção "Build", navegue até a aba "JSON Editor" e insira o conteúdo abaixo:
+Na seção "Build", navegue até a aba "Interaction Model" -> "JSON Editor" e insira o conteúdo abaixo:
 
 ```json
 {
