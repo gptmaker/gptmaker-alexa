@@ -118,7 +118,8 @@ Na imagem acima o ID do agente seria o final da URL, exemplo: 3D9A31066690904395
 
 ### 10.
 
-Substitua seu arquivo lambda_functions.py pelo conteúdo abaixo:
+Substitua seu arquivo lambda_functions.py pelo conteúdo abaixo.
+Lembre-se de alterar os valores de **gpt_maker_api_key** e **agent_id** de acordo com seus dados.
 
 ```python
 from ask_sdk_core.dispatch_components import AbstractExceptionHandler
