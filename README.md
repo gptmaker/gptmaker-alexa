@@ -272,7 +272,9 @@ lambda_handler = sb.lambda_handler()
 
 ### 11.
 
-Salvar e implantar. Vá para a seção "Test" e habilite "Teste de habilidade" em "Desenvolvimento".
+Salve o código e depois clique em "Deploy" para reflerir as alterações do código. 
+
+Vá para a seção "Test" e habilite "Teste de habilidade" em "Desenvolvimento".
 
 ![development_enabled](images/development_enabled.png)
 
