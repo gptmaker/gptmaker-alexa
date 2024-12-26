@@ -37,7 +37,7 @@ Escolha "Hospedado pela Alexa (Python)" para os recursos de backend.
 
 ### 5.
 
-Selecione "Começar do zero" e clique em "Criar habilidade"
+Selecione "Start from Scratch" e clique em "Next" para continuar, na tela seguinte clique em "Criar habilidade".
 
 ![template](images/select_template.png)
 
